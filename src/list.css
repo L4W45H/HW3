@@ -1,0 +1,19 @@
+body {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.posts {
+    text-align: left;
+}
+span {
+    margin-left: 15px;
+    cursor: pointer;
+    color: red;
+}
+input{
+    margin-left: 10px;
+    width: 100px;
+}
+.alert-success {
+    color: #155724;
+  }
